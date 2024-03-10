@@ -5,3 +5,8 @@ git clone -b v3 --depth 1 https://www.github.com/keyitdev/dotfiles.git
 cd dotfiles
 chmod +x install-on-arch.sh
 ./install-on-arch.sh
+
+
+FOR ARCHIVED
+
+yay -S i3-blocks i3-status nemo-fileroller nemo
