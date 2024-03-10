@@ -9,4 +9,4 @@ chmod +x install-on-arch.sh
 
 FOR ARCHIVED
 
-yay -S i3-blocks i3-status nemo-fileroller nemo
+yay -S i3blocks i3status nemo-fileroller nemo
