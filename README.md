@@ -1,1 +1,2 @@
 # commandsIDK
+yay -S acpi alsa-utils base-devel curl git pulseaudio pulseaudio-alsa xorg xorg-xinit alacritty btop code dunst feh ffcast firefox i3-gaps i3lock-color i3-resurrect libnotify light mpc mpd ncmpcpp nemo neofetch neovim oh-my-zsh-git pacman-contrib papirus-icon-theme picom polybar ranger rofi scrot slop xclip zathura zathura-pdf-mupdf zsh qt5-graphicaleffects qt5-quickcontrols2 qt5-svg sddm noto-fonts noto-fonts-cjk noto-fonts-emoji noto-fonts-extra
