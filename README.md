@@ -1,7 +1,7 @@
 # commandsIDK
 
 FOR DOTFILES2024
-yay -S i3status-rust picom alacritty lxappearance arc-gtk-theme powerline-fons ttf-font-awesome rofi neofetch
+yay -S i3status-rust picom alacritty lxappearance arc-gtk-theme powerline-fons ttf-font-awesome rofi neofetch feh
 
 
 FOR HEAVY DOTFILES
